@@ -168,6 +168,6 @@ This project is licensed under the MIT License.
 </p>
 
 <p align="center">
-  Built with ❤️ by <b>Vicky Dhale</b><br>
+  Built with ❤️ by <b>Nikky Dhale</b><br>
   © 2026 Global License Manager
 </p>
